@@ -59,6 +59,7 @@ python scripts\citics_quant_toolkit.py xtdata --stock 000001.SZ --start 20240501
 ## 重要文档
 
 - `docs\data-status.md`：已下载数据、验证结果和后续补数清单。
+- `docs\competition-rules.md`：比赛规则确认清单和 Codex 约束。
 - `docs\environment-map.md`：本机、远程服务器、迅投终端和 Codex 的分工。
 - `docs\deployment-checklist.md`：赛前/回测/模拟盘检查清单。
 - `docs\workflow.md`：结合软连接的策略开发、检查和发布流程。
