@@ -1,0 +1,9 @@
+{
+  "xuntou_root": "D:\\迅投极速交易终端睿智融科版",
+  "factor_python": "D:\\迅投极速交易终端睿智融科版\\bin.x64\\因子版\\python.exe",
+  "strategy_file": "D:\\迅投极速交易终端睿智融科版\\python\\STOCK_FACTOR_BASELINE.py",
+  "log_dir": "D:\\迅投极速交易终端睿智融科版\\userdata\\log",
+  "skill_root": "C:\\Users\\wh_xz\\.codex\\skills\\xtquant-strategy",
+  "default_stock": "000001.SZ",
+  "default_sector": "沪深A股"
+}

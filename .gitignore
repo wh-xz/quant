@@ -1,0 +1,28 @@
+# Local secrets and machine-specific config
+private/
+config.json
+links/**
+!links/
+!links/README.md
+
+# Generated caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Temporary files
+tmp/
+*.tmp
+*.log
+
+# Large or local-only artifacts
+vendor/
+data/exports/
+data/external/
+data/processed/
+
+# Keep directory placeholders and READMEs if added later
+!data/**/README.md
+!vendor/README.md
+!tmp/README.md
